@@ -43,8 +43,8 @@ The dataset consists of loan application records containing the following key fi
 
 <a id=section4></a>
 ## 5. Approach to Problem
-1. **Data Extraction**: SQL queries were utilized to calculate key metrics for the report, including total loan applications, funded amounts, and average interest rates.
-2. **Data Visualization**: Tableau was employed to create visual representations of the loan data, allowing for easy interpretation of trends and patterns.
+- **Data Extraction**: SQL queries were utilized to calculate key metrics for the report, including total loan applications, funded amounts, and average interest rates.
+- **Data Visualization**: Tableau was employed to create visual representations of the loan data, allowing for easy interpretation of trends and patterns.
 
 <a id=section5></a>
 ## 6. Tools and Technologies
@@ -170,12 +170,14 @@ By showcasing these SQL queries, I demonstrated my ability to translate business
 
 <a id=section7></a>
 ## 8. Data Visualization: Tableau
+<img width="1190" alt="Screenshot 2024-10-09 at 11 00 07 PM" src="https://github.com/user-attachments/assets/36cd0e0b-78d9-48ae-b2dc-1c2dd81e92e6">
 
-The Tableau dashboards created for this project include:
-
+The Tableau dashboards created for this project includes:
 1. **Summary Dashboard**: Displays overall lending metrics, including total loan applications and funded amounts.
 2. **Overview Dashboard**: Visualizes lending trends over time and by region, highlighting differences in loan performance across states and purposes.
-3. **Details Dashboard**: Provides a granular view of loan data, allowing users to drill down into specific loan characteristics and statuses【10†source】.
+3. **Details Dashboard**: Provides a granular view of loan data, allowing users to drill down into specific loan characteristics and statuses.
+
+Access the live dashboard on Tableau Public: [Fortress Finance Loan Report](https://public.tableau.com/shared/WZZ8Q72TK?:display_count=n&:origin=viz_share_link)
 
 <a id=section8></a>
 ## 9. Insights and Actionable Recommendations
