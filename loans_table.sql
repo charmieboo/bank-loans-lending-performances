@@ -1,0 +1,26 @@
+CREATE TABLE loans (
+    id SERIAL PRIMARY KEY,
+    address_state VARCHAR(50),
+    application_type VARCHAR(50),
+    emp_length VARCHAR(50),
+    emp_title VARCHAR(255),
+    grade VARCHAR(50),
+    home_ownership VARCHAR(50),
+    issue_date TEXT,
+    last_credit_pull_date TEXT,
+    last_payment_date TEXT,
+    loan_status VARCHAR(50),
+    next_payment_date TEXT,
+    member_id INTEGER,
+    purpose VARCHAR(100),
+    sub_grade VARCHAR(10),
+    term TEXT,  -- Change to TEXT
+    verification_status VARCHAR(50),
+    annual_income FLOAT,
+    dti FLOAT,
+    installment FLOAT,
+    int_rate FLOAT,
+    loan_amount FLOAT,
+    total_acc INTEGER,
+    total_payment FLOAT
+);
